@@ -1,0 +1,1 @@
+{"version":3,"file":"ILogin.d.ts","sourceRoot":"","sources":["../../../src/controllers/responseType/ILogin.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,qBAAqB,EAAE,MAAM,qCAAqC,CAAC;AAC5E,MAAM,WAAW,MAAM;IACtB,IAAI,EAAE,qBAAqB,CAAC;IAC5B,WAAW,EAAE,MAAM,CAAC;IACpB,YAAY,EAAE,MAAM,CAAC;CACrB"}

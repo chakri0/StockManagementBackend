@@ -1,0 +1,1 @@
+{"version":3,"file":"Mail.interface.d.ts","sourceRoot":"","sources":["../../../../src/database/instanses/mail/Mail.interface.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,KAAK;IACrB,qBAAqB,IAAI,OAAO,CAAC,IAAI,CAAC,CAAC;IACvC,mBAAmB,CAClB,KAAK,EAAE,MAAM,EACb,IAAI,EAAE,MAAM,EACZ,KAAK,EAAE,MAAM,GACX,OAAO,CAAC,IAAI,CAAC,CAAC;CACjB"}

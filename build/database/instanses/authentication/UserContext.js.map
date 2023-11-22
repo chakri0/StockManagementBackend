@@ -1,0 +1,1 @@
+{"version":3,"file":"UserContext.js","sourceRoot":"","sources":["../../../../src/database/instanses/authentication/UserContext.ts"],"names":[],"mappings":";;;AAEA,MAAa,WAAW;IAGvB,MAAM,CAAC,gBAAgB,CAAC,IAAU;QACjC,WAAW,CAAC,IAAI,GAAG,IAAI,CAAC;IACzB,CAAC;IAED,MAAM,CAAC,aAAa;QACnB,OAAO,WAAW,CAAC,IAAI,CAAC;IACzB,CAAC;CACD;AAVD,kCAUC"}

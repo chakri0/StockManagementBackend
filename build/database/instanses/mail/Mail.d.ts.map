@@ -1,0 +1,1 @@
+{"version":3,"file":"Mail.d.ts","sourceRoot":"","sources":["../../../../src/database/instanses/mail/Mail.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,KAAK,EAAE,MAAM,kBAAkB,CAAC;AAGzC,qBAAa,IAAK,YAAW,KAAK;IACjC,qBAAqB,IAAI,OAAO,CAAC,IAAI,CAAC;IAIzB,mBAAmB,CAC/B,KAAK,EAAE,MAAM,EACb,SAAS,EAAE,MAAM,EACjB,KAAK,EAAE,MAAM,GACX,OAAO,CAAC,IAAI,CAAC;mBAoBK,QAAQ;CAsB7B"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"WinstonLogger.d.ts","sourceRoot":"","sources":["../../../src/common/logging/WinstonLogger.ts"],"names":[],"mappings":"AAEA,qBAAa,aAAa;IACzB,OAAO,CAAC,MAAM,CAAiB;;IAkBxB,KAAK,CAAC,OAAO,EAAE,MAAM,EAAE,QAAQ,CAAC,EAAE,MAAM;IAIxC,IAAI,CAAC,OAAO,EAAE,MAAM,EAAE,QAAQ,CAAC,EAAE,MAAM;IAIvC,KAAK,CAAC,OAAO,EAAE,MAAM,EAAE,QAAQ,CAAC,EAAE,MAAM;CAG/C"}

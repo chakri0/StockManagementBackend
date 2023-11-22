@@ -1,0 +1,1 @@
+{"version":3,"file":"UserContext.d.ts","sourceRoot":"","sources":["../../../../src/database/instanses/authentication/UserContext.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,IAAI,EAAE,MAAM,qBAAqB,CAAC;AAE3C,qBAAa,WAAW;IACvB,OAAO,CAAC,MAAM,CAAC,IAAI,CAAO;IAE1B,MAAM,CAAC,gBAAgB,CAAC,IAAI,EAAE,IAAI;IAIlC,MAAM,CAAC,aAAa;CAGpB"}
