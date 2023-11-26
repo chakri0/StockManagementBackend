@@ -1,7 +1,7 @@
 export default {
 	app: {
 		frontend: {
-			baseUrl: 'http://localhost:1234',
+			baseUrl: 'https://main.d255kynncwqvj1.amplifyapp.com',
 			accountSetup: '/accountSetup',
 		},
 		backend: {

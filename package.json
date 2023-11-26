@@ -12,7 +12,7 @@
 		"migration-gen": "npm run typeorm migration:generate -- -d src/database/dataSource.ts",
 		"migration-run": "npx TypeORM-ts-node-esm migration:run -d src/database/dataSource.ts",
 		"start": "npm run build && nodemon src/server.ts",
-		"prepare": "husky install",
+		"prepare": "husky install", -g
 		"build": "tsc"
 	},
 	"author": "KavalakuntlaChakradhar",
@@ -30,6 +30,7 @@
 		"nodemailer": "^6.9.1",
 		"nodemon": "^3.0.1",
 		"openai": "^4.19.0",
+		"openssl": "^2.0.0",
 		"otp-generator": "^4.0.1",
 		"path": "^0.12.7",
 		"reflect-metadata": "^0.1.13",
@@ -55,4 +56,3 @@
 		"typescript": "^5.2.2"
 	}
 }
- 
